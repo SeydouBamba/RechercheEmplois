@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DescriptionActivity"
+    android:background="@color/black">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/whiteTextColor"
+            android:text="Titre du poste : Développeur Full Stack \n\n
+Description du poste : Nous recherchons un développeur Full Stack pour rejoindre
+notre équipe de développement. Le candidat retenu sera responsable de la conception,
+du développement et de la maintenance de notre site Web et de nos applications.\n\n
+Exigences :\n
+- Diplôme en informatique ou dans un domaine connexe\n
+- Expérience de 3 à 5 ans en développement\n
+- Maîtrise des langages de programmation tels que JavaScript, HTML, CSS, Node.js, React.js et Python\n
+- Connaissance des bases de données relationnelles et non relationnelles\n\n
+Salaire et avantages sociaux : Salaire compétitif selon l'expérience et les compétences.
+Les avantages sociaux comprennent une assurance santé,
+des congés payés et un programme de retraite.\n\n
+Localisation : Poste basé à Dakar.\n\n
+Modalités de candidature : Pour postuler, veuillez envoyer votre CV\n\n
+Culture d'entreprise : Nous sommes une entreprise innovante et dynamique qui
+encourage la créativité et l'esprit d'équipe.\n\n
+Informations sur l'entreprise : Notre entreprise est une startup en pleine croissance qui fournit des
+solutions logicielles pour les entreprises du secteur de la santé.
+"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            style="@style/loginButton"
+            android:layout_gravity="bottom"
+            android:text="Retour"
+            android:id="@+id/retourButton"/>
+        <Button
+            android:id="@+id/candidaterButton"
+            style="@style/loginButton"
+            android:text="POSTULER"
+            android:layout_gravity="bottom"
+            android:layout_marginTop="@dimen/loginViewsMargin"/>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
