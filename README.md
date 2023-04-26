@@ -23,5 +23,24 @@ base MySQL avec Spring boot.
 
 # Page d'acceuil de l'application android
 
+![image](https://user-images.githubusercontent.com/124637366/234712512-37ae41c2-f0b0-406a-80cd-f27ac73f5aef.png)
+
+# Visualisation des offres d'emplois
+ ## Cliquer sur le bouton "OFFRE EMPLOI"
+En cliquant sur le bouton offre d'emploi on obtien les catégories d'offres suivants :
+- TELECOM
+- SANTE
+- DEVELOPPEMENT
+- INTELLIGENCE ARTIFICIELLE
+
+ ## Cliquer sur une catégories d'offre
+ Cela permet de voir les differnets offres de cette catégories
+
+![image](https://user-images.githubusercontent.com/124637366/234712888-8acb53be-3b38-4599-89ff-fc4993289fea.png)
+
+ ## Cliquer sur un offre pour voir sa description
+![image](https://user-images.githubusercontent.com/124637366/234712950-789e465c-696b-464e-97f2-5ee0dcbbffb0.png)
+
+![image](https://user-images.githubusercontent.com/124637366/234713161-556c12a5-2cb5-40e9-aab0-0078e34ee7a8.png)
 
 
