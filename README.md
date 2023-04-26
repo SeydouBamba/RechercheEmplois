@@ -27,7 +27,7 @@ base MySQL avec Spring boot.
 
 ## Visualisation des offres d'emplois
  ### 1. Cliquer sur le bouton "OFFRE EMPLOI"
-En cliquant sur le bouton offre d'emploi on obtien les catégories d'offres suivantes :
+En cliquant sur le bouton offre d'emploi on obtient les catégories d'offres suivantes :
 - TELECOM
 - SANTE
 - DEVELOPPEMENT
@@ -51,7 +51,7 @@ En cliquant sur le bouton offre d'emploi on obtien les catégories d'offres suiv
  ![image](https://user-images.githubusercontent.com/124637366/234716866-f64b49a6-6474-42a1-98e3-0ddf6292f084.png)
  
  ### 2. cliquer sur le bouton "VALIDER" 
- Le cliquer sur le bouton "VALIDER" permet d'enregistrer votre CV dans la base de données.
+ Le clique sur le bouton "VALIDER" permet d'enregistrer votre CV dans la base de données.
  
  ## Visualisation des CV
  Pour visualiser les CV il faut d'abord enregistrer ton CV dans la base de données en postulant à un offre.
